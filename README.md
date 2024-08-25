@@ -1,7 +1,3 @@
-Here’s a formatted version of your README that should look clean and professional when rendered on GitHub:
-
----
-
 # Finance Algorithm
 
 ## Overview
@@ -37,7 +33,3 @@ This trading algorithm is a closed-source, proprietary tool. It is being activel
 ## Disclaimer
 
 This algorithm is proprietary and is used exclusively by authorized individuals. The results and performance metrics are confidential and are not shared publicly.
-
----
-
-When this README is viewed on GitHub, the spacing and formatting will create a clean and readable presentation, with clear sections and emphasis on key points.
